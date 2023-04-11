@@ -6,7 +6,7 @@ A small project with a simple GUI to calculate velocity in ventilation ducts. Us
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+
 
 ___
 
